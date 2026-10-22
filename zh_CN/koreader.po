@@ -28133,3 +28133,65 @@ msgstr "插件已停用"
 
 msgid "Progress sync is set up in the reader: open a book, then Tools › Progress sync."
 msgstr "进度同步要在阅读时设置：打开一本书，然后在“工具 › 进度同步”里设置。"
+
+
+#. @translators Title of the dictionary sheet.
+msgctxt "Dictionary sheet"
+msgid "Look up"
+msgstr "查词"
+
+msgctxt "Dictionary sheet"
+msgid "Add to vocabulary builder"
+msgstr "加入生词本"
+
+#. @translators Button state in the dictionary sheet: the word is already in the vocabulary builder.
+msgid "In vocabulary builder"
+msgstr "已在生词本"
+
+msgid "Added to vocabulary builder"
+msgstr "已加入生词本"
+
+msgid "Removed from vocabulary builder"
+msgstr "已从生词本移除"
+
+#. @translators Dictionary sheet button: full-text search of the book for the word.
+msgctxt "Dictionary sheet"
+msgid "Search book"
+msgstr "全书搜索"
+
+#. @translators Dictionary sheet link that opens the original dictionary popup.
+msgctxt "Dictionary sheet"
+msgid "Full entry"
+msgstr "完整释义"
+
+msgctxt "Dictionary sheet"
+msgid "Turn on Wi-Fi"
+msgstr "打开 Wi-Fi"
+
+#. @translators %1 is the selected text, %2 the longest dictionary word found in it.
+msgid "Selected \"%1\", found \"%2\" by longest match"
+msgstr "选中的是“%1”，按最长匹配查到“%2”"
+
+msgid "No \"%1\" in local dictionaries"
+msgstr "本地词典里没有“%1”"
+
+msgid "Try Wikipedia, or add more StarDict dictionaries in settings."
+msgstr "可以试试维基百科，或者在设置里添加更多 StarDict 词典。"
+
+msgid "Selection too long to look up"
+msgstr "选中的文字太长，不能查词"
+
+msgid "Try searching the book instead."
+msgstr "试试全书搜索。"
+
+msgid "Needs a network connection"
+msgstr "需要联网"
+
+msgid "Wikipedia is an online lookup. Turn on Wi-Fi and try again."
+msgstr "维基百科是在线查询。打开 Wi-Fi 后再试一次。"
+
+msgid "Searching Wikipedia…"
+msgstr "正在搜索维基百科…"
+
+msgid "No Wikipedia article for \"%1\""
+msgstr "维基百科里没有“%1”"
