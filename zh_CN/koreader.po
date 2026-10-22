@@ -27764,3 +27764,10 @@ msgstr "标注"
 
 #~ msgid "%1/%2"
 #~ msgstr "%1/%2"
+
+# eink-redesign: entries for the fork's redesigned UI (see doc/adr/0002 in the
+# superproject). Upstream msgmerge may mark these obsolete; re-append on sync.
+
+#. @translators Entry in the redesigned settings that opens KOReader's original full menu.
+msgid "All settings (original)"
+msgstr "全部设置（原版）"
