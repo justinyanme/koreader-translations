@@ -28133,3 +28133,63 @@ msgstr "插件已停用"
 
 msgid "Progress sync is set up in the reader: open a book, then Tools › Progress sync."
 msgstr "进度同步要在阅读时设置：打开一本书，然后在“工具 › 进度同步”里设置。"
+
+msgctxt "Settings group"
+msgid "Reading"
+msgstr "阅读"
+
+msgctxt "Settings group"
+msgid "Screen"
+msgstr "屏幕"
+
+msgctxt "Settings group"
+msgid "Network & sync"
+msgstr "网络与同步"
+
+msgctxt "Settings group"
+msgid "Device"
+msgstr "设备"
+
+msgctxt "Settings group"
+msgid "Advanced"
+msgstr "高级"
+
+msgid "Page turns and tap zones"
+msgstr "翻页与点击区域"
+
+msgctxt "Settings"
+msgid "Full refresh rate"
+msgstr "全刷频率"
+
+msgctxt "Settings"
+msgid "Status bar"
+msgstr "页脚信息"
+
+msgid "After finishing a book"
+msgstr "读完一本书后"
+
+msgctxt "Settings"
+msgid "Sleep screen"
+msgstr "休眠屏保"
+
+msgid "Wi-Fi"
+msgstr "Wi‑Fi"
+
+msgctxt "Settings"
+msgid "Progress sync"
+msgstr "阅读进度同步"
+
+msgid "Wireless transfer and library"
+msgstr "无线传书与书库"
+
+msgid "Power and sleep"
+msgstr "电源与休眠"
+
+msgid "Plugins"
+msgstr "插件"
+
+msgid "Preview tap zones"
+msgstr "预览点击区域"
+
+msgid "Open a book first"
+msgstr "先打开一本书"
