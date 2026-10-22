@@ -27936,6 +27936,135 @@ msgstr "长按文字选中后，点“划线”或“写想法”。"
 msgid "Thought"
 msgstr "想法"
 
+#. @translators Selection bubble action that highlights the selected text.
+msgctxt "Highlight bubble"
+msgid "Highlight"
+msgstr "划线"
+
+#. @translators Selection bubble action that adds a note to the selected text or highlight.
+msgctxt "Highlight bubble"
+msgid "Write note"
+msgstr "写想法"
+
+#. @translators Highlight bubble action that edits the note of a highlight.
+msgctxt "Highlight bubble"
+msgid "Edit note"
+msgstr "改想法"
+
+#. @translators Selection bubble action that looks up the selected text in the dictionary.
+msgctxt "Highlight bubble"
+msgid "Look up"
+msgstr "查询"
+
+#. @translators Title of the sheet that edits the note of a highlight.
+msgctxt "Note sheet"
+msgid "Edit note"
+msgstr "修改想法"
+
+msgid "Write down your thoughts…"
+msgstr "写下你的想法…"
+
+#. @translators Highlight style, see doc/adr/0003-wavy-highlight-style.md in the superproject.
+msgid "Wavy underline"
+msgstr "波浪线"
+#. @translators Title of the reader's typeset panel.
+msgid "Font & layout"
+msgstr "字体与排版"
+
+#. @translators %1 is the font size.
+msgctxt "Typeset panel"
+msgid "Font size %1"
+msgstr "字号 %1"
+
+msgctxt "Typeset panel"
+msgid "Line spacing"
+msgstr "行距"
+
+msgid "Margins"
+msgstr "边距"
+
+msgctxt "Line spacing"
+msgid "Compact"
+msgstr "紧凑"
+
+msgctxt "Line spacing"
+msgid "Standard"
+msgstr "标准"
+
+msgctxt "Line spacing"
+msgid "Loose"
+msgstr "宽松"
+
+msgctxt "Margins"
+msgid "Narrow"
+msgstr "窄"
+
+msgctxt "Margins"
+msgid "Standard"
+msgstr "标准"
+
+msgctxt "Margins"
+msgid "Wide"
+msgstr "宽"
+
+#. @translators Font name (Source Han Serif / Noto Serif CJK).
+msgid "Source Han Serif"
+msgstr "思源宋体"
+
+#. @translators Font name (Source Han Sans / Noto Sans CJK).
+msgid "Source Han Sans"
+msgstr "思源黑体"
+
+#. @translators %1 is a font name.
+msgid "%1 · not installed"
+msgstr "%1 · 未安装"
+
+msgid "More fonts"
+msgstr "更多字体"
+
+msgid "More layout options"
+msgstr "更多排版"
+
+msgid "More layout options: weight, hyphenation, indent, style tweaks"
+msgstr "更多排版：字重、断字、缩进、样式微调"
+
+#. @translators %1 is the folder for user fonts.
+msgid "Source Han Serif is not installed. Put its font files in %1 and restart KOReader. Source Han Sans is used for now."
+msgstr "未安装思源宋体。请把字体文件放进 %1，然后重启 KOReader。暂时使用思源黑体显示。"
+
+msgid "Hyphenation"
+msgstr "断字"
+
+msgid "Paragraph indent"
+msgstr "段首缩进"
+
+msgid "Paragraph spacing"
+msgstr "段间距"
+
+msgid "All layout options (original)"
+msgstr "全部排版选项（原版）"
+#. @translators Shown on the Files tab when the current folder has nothing in it.
+msgid "This folder is empty"
+msgstr "这个文件夹是空的"
+
+msgid "Put books here over USB or with Calibre wireless connection."
+msgstr "用 USB 或 Calibre 无线传书把书放进来。"
+
+#. @translators Under a folder on the Files tab: how many books it holds.
+msgid "1 book"
+msgid_plural "%1 books"
+msgstr[0] "%1 本"
+
+#. @translators Under a folder on the Files tab: how many folders it holds.
+msgid "1 folder"
+msgid_plural "%1 folders"
+msgstr[0] "%1 个文件夹"
+
+#. @translators Under a folder on the Files tab that holds nothing.
+msgctxt "Folder"
+msgid "Empty"
+msgstr "空"
+
 #. @translators Heading of the weekly reading chart on the Me page.
 msgid "Reading this week"
 msgstr "本周阅读"
