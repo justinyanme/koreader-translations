@@ -27835,3 +27835,7 @@ msgstr "点击中间"
 
 msgid "Tap the right third"
 msgstr "点击右侧 1/3"
+
+#. @translators Shown in the tap zone preview when turning pages by tapping is disabled.
+msgid "Page turn taps off"
+msgstr "点击翻页已关闭"
