@@ -27889,3 +27889,25 @@ msgstr "从书架移除"
 #. @translators %1 is the folder that holds the book.
 msgid "Removed from shelf. The file is still in %1"
 msgstr "已从书架移除，文件还在 %1"
+
+#. @translators Shown on the Files tab when the current folder has nothing in it.
+msgid "This folder is empty"
+msgstr "这个文件夹是空的"
+
+msgid "Put books here over USB or with Calibre wireless connection."
+msgstr "用 USB 或 Calibre 无线传书把书放进来。"
+
+#. @translators Under a folder on the Files tab: how many books it holds.
+msgid "1 book"
+msgid_plural "%1 books"
+msgstr[0] "%1 本"
+
+#. @translators Under a folder on the Files tab: how many folders it holds.
+msgid "1 folder"
+msgid_plural "%1 folders"
+msgstr[0] "%1 个文件夹"
+
+#. @translators Under a folder on the Files tab that holds nothing.
+msgctxt "Folder"
+msgid "Empty"
+msgstr "空"
