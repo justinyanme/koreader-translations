@@ -28255,3 +28255,169 @@ msgstr "预览点击区域"
 
 msgid "Open a book first"
 msgstr "先打开一本书"
+
+# 书源 (OPDS as a remote shelf, #24)
+msgid "Login failed. Check the source's username, password or Access token."
+msgstr "登录失败。检查书源的用户名、密码或 Access 令牌。"
+
+msgid "Cannot reach the source. Check the NAS and the network."
+msgstr "连不上书源，检查 NAS 和网络。"
+
+msgid "The server's answer is not an OPDS catalog. Check the address."
+msgstr "服务器返回的不是 OPDS 书单，检查地址。"
+
+msgid "Not connected."
+msgstr "没有联网。"
+
+msgid "The server answered with status %1."
+msgstr "服务器返回状态码 %1。"
+
+msgid "Manage sources"
+msgstr "管理书源"
+
+#. @translators Title of the page showing a remote book's full description.
+msgctxt "OPDS book"
+msgid "Description"
+msgstr "简介"
+
+msgid "Search this source"
+msgstr "搜索这个书源"
+
+#. @translators %1 is what the reader searched for.
+msgid "Results for “%1”"
+msgstr "“%1”的搜索结果"
+
+#. @translators Number of books fetched so far from a source that has more.
+msgid "%1 loaded"
+msgstr "已取到 %1 本"
+
+msgid "Downloading %1%"
+msgstr "下载中 %1%"
+
+msgid "Downloaded"
+msgstr "已下载"
+
+msgid "No sources yet"
+msgstr "还没有书源"
+
+msgid "Add an OPDS address, such as Calibre-Web on your NAS."
+msgstr "添加一个 OPDS 地址，比如家里 NAS 上的 Calibre-Web。"
+
+msgid "Add source"
+msgstr "添加书源"
+
+msgid "Connecting to %1…"
+msgstr "正在连接%1…"
+
+msgid "Turn on Wi-Fi to browse this source."
+msgstr "打开 Wi‑Fi 才能浏览这个书源。"
+
+msgid "Cannot reach the source"
+msgstr "连不上书源"
+
+msgid "Check that the NAS is on and the tunnel is online, then try again."
+msgstr "看看 NAS 是否开着、tunnel 是否在线，稍后再试一次。"
+
+msgid "No answer"
+msgstr "没有响应"
+
+msgid "Login failed"
+msgstr "登录失败"
+
+msgid "The source refused the login. Check the username, password or Access token."
+msgstr "书源拒绝了这次登录。检查用户名、密码或 Access 令牌是否还有效。"
+
+msgid "Edit source"
+msgstr "编辑书源"
+
+msgid "Not an OPDS catalog"
+msgstr "不是 OPDS 书源"
+
+msgid "The server answered, but not with an OPDS feed. Check the address."
+msgstr "服务器有回应，但返回的不是 OPDS 书单。检查地址是否填对。"
+
+msgid "Server error %1"
+msgstr "服务器出错 %1"
+
+msgid "The source answered with an error."
+msgstr "书源返回了错误。"
+
+msgid "Nothing found for “%1”"
+msgstr "书源里没有找到“%1”"
+
+msgid "Try a word from the title, or the author's name."
+msgstr "试试书名里的一个词，或作者名。"
+
+msgid "No books here yet"
+msgstr "这里还没有书"
+
+msgid "Add books on the server and they show up here."
+msgstr "把书放到服务器上，这里就能看到。"
+
+msgid "Title or author"
+msgstr "书名或作者"
+
+msgid "Cannot start the download."
+msgstr "无法开始下载。"
+
+msgid "Download failed: %1"
+msgstr "下载失败：%1"
+
+msgid "Download canceled"
+msgstr "已取消下载"
+
+msgid "Books will be downloaded to %1"
+msgstr "以后下载到 %1"
+
+msgid "This folder is outside the home folder: books downloaded here won't show up on the shelf."
+msgstr "这个文件夹不在主目录里：下载到这里的书不会出现在书架上。"
+
+#. @translators Title of the sheet listing a source's categories (authors, tags, series…).
+msgid "Browse"
+msgstr "分类浏览"
+
+msgid "Read"
+msgstr "阅读"
+
+#. @translators %1 is a format and size, e.g. "EPUB · 296 kB".
+msgid "Download %1"
+msgstr "下载 %1"
+
+msgid "Other formats"
+msgstr "其他格式"
+
+msgid "Download again, replacing this copy"
+msgstr "重新下载，覆盖本机这一份"
+
+msgid "Delete source"
+msgstr "删除书源"
+
+msgid "Delete “%1”? Books you downloaded stay on the device."
+msgstr "删除“%1”？下载过的书还留在设备上。"
+
+msgid "Source deleted"
+msgstr "已删除书源"
+
+msgid "e.g. NAS at home"
+msgstr "比如：家里的 NAS"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Leave empty if not needed"
+msgstr "不需要就留空"
+
+msgid "Cloudflare Access (optional, sent only to this source's domain)"
+msgstr "Cloudflare Access（可选，只发给这个书源的域名）"
+
+msgid "Client Secret"
+msgstr "Client Secret"
+
+msgid "When off, books are named “Author - Title”"
+msgstr "关闭时按“作者 - 书名”命名"
+
+msgid "Source added"
+msgstr "已添加书源"
+
+msgid "Loading more…"
+msgstr "取下一批…"
