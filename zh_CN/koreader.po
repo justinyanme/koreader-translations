@@ -27771,3 +27771,67 @@ msgstr "标注"
 #. @translators Entry in the redesigned settings that opens KOReader's original full menu.
 msgid "All settings (original)"
 msgstr "全部设置（原版）"
+
+#. @translators Reader toolbar entry that opens the table of contents.
+msgctxt "Reader toolbar"
+msgid "Contents"
+msgstr "目录"
+
+msgid "Chapter page %1 / %2 · Book %3%"
+msgstr "本章第 %1 / %2 页 · 全书 %3%"
+
+msgid "Page %1 / %2 · Book %3%"
+msgstr "第 %1 / %2 页 · 全书 %3%"
+
+#. @translators %1 is a chapter title, %2 a page number within that chapter.
+msgid "Return to last position: %1, page %2"
+msgstr "返回上次位置：%1 第 %2 页"
+
+msgid "Brightness %1%"
+msgstr "亮度 %1%"
+
+msgid "Warmth %1"
+msgstr "色温 %1"
+
+msgid "Adjust warmth automatically by time"
+msgstr "按时间自动调节色温"
+
+msgid "Night mode (white on black)"
+msgstr "夜间模式（黑底白字）"
+
+msgid "More"
+msgstr "更多"
+
+msgid "Tap zones"
+msgstr "点击区域"
+
+#. @translators Exports the highlights and notes of the current book.
+msgid "Export notes"
+msgstr "导出笔记"
+
+msgid "Refresh and ghosting"
+msgstr "刷新与残影"
+
+msgid "All settings"
+msgstr "全部设置"
+
+msgctxt "Tap zones"
+msgid "Previous page"
+msgstr "上一页"
+
+msgctxt "Tap zones"
+msgid "Next page"
+msgstr "下一页"
+
+msgctxt "Tap zones"
+msgid "Toolbar"
+msgstr "工具栏"
+
+msgid "Tap the left third"
+msgstr "点击左侧 1/3"
+
+msgid "Tap the middle"
+msgstr "点击中间"
+
+msgid "Tap the right third"
+msgstr "点击右侧 1/3"
