@@ -28257,17 +28257,9 @@ msgid "Open a book first"
 msgstr "先打开一本书"
 
 # 书源 (OPDS as a remote shelf, #24)
-msgid "Login failed. Check the source's username, password or Access token."
-msgstr "登录失败。检查书源的用户名、密码或 Access 令牌。"
 
-msgid "Cannot reach the source. Check the NAS and the network."
-msgstr "连不上书源，检查 NAS 和网络。"
 
-msgid "The server's answer is not an OPDS catalog. Check the address."
-msgstr "服务器返回的不是 OPDS 书单，检查地址。"
 
-msgid "Not connected."
-msgstr "没有联网。"
 
 msgid "The server answered with status %1."
 msgstr "服务器返回状态码 %1。"
@@ -28339,8 +28331,6 @@ msgstr "服务器有回应，但返回的不是 OPDS 书单。检查地址是否
 msgid "Server error %1"
 msgstr "服务器出错 %1"
 
-msgid "The source answered with an error."
-msgstr "书源返回了错误。"
 
 msgid "Nothing found for “%1”"
 msgstr "书源里没有找到“%1”"
@@ -28421,3 +28411,20 @@ msgstr "已添加书源"
 
 msgid "Loading more…"
 msgstr "取下一批…"
+
+#. @translators Entry in the redesigned settings and the Me tab that opens 书源, the OPDS sources page.
+msgid "Book sources (OPDS)"
+msgstr "书源（OPDS）"
+
+msgid "Not a book"
+msgstr "不是书"
+
+msgid "The server sent a web page instead of the book. Check the source's login."
+msgstr "服务器返回的是网页而不是书，检查书源的登录信息。"
+
+msgid "Cannot save the book"
+msgstr "无法保存这本书"
+
+#. @translators %1 is a folder.
+msgid "Cannot write to the download folder %1. Choose another one in the source's menu."
+msgstr "无法写入下载文件夹 %1。在书源的“⋯”菜单里换一个文件夹。"
