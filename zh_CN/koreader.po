@@ -27889,3 +27889,72 @@ msgstr "从书架移除"
 #. @translators %1 is the folder that holds the book.
 msgid "Removed from shelf. The file is still in %1"
 msgstr "已从书架移除，文件还在 %1"
+
+#. @translators Heading of the weekly reading chart on the Me page.
+msgid "Reading this week"
+msgstr "本周阅读"
+
+#. @translators Reading time: %1 hours, %2 minutes.
+msgid "%1 h %2 min"
+msgstr "%1 小时 %2 分"
+
+#. @translators %1 consecutive days with reading, %2 books finished this year.
+msgid "%1-day reading streak · %2 finished this year"
+msgstr "连续阅读 %1 天 · 今年读完 %2 本"
+
+msgctxt "Me page"
+msgid "Notes"
+msgstr "笔记"
+
+msgid "%1 highlights and notes"
+msgstr "%1 条划线和想法"
+
+msgctxt "Me page"
+msgid "Vocabulary"
+msgstr "生词本"
+
+msgid "%1 words"
+msgstr "%1 个词"
+
+msgid "Sync and transfer"
+msgstr "同步与传书"
+
+#. @translators Groups of the redesigned settings, shown under the Settings entry.
+msgid "Reading · Screen · Network · Device"
+msgstr "阅读 · 屏幕 · 网络 · 设备"
+
+#. @translators Group header in all notes: %1 is a book title, %2 its number of notes.
+msgid "%1 · %2 notes"
+msgstr "%1 · %2 条"
+
+msgid "Long-press text in a book, then tap Highlight or Add note."
+msgstr "在书里长按文字，点“划线”或“写想法”。"
+
+#. @translators Opens the vocabulary builder's review of looked-up words.
+msgctxt "Vocabulary builder"
+msgid "Review"
+msgstr "复习"
+
+msgid "Your vocabulary is empty"
+msgstr "生词本是空的"
+
+msgid "When looking up a word, tap Add to vocabulary builder."
+msgstr "查词时点“加入生词本”。"
+
+msgid "Calibre wireless connection"
+msgstr "Calibre 无线连接"
+
+msgid "Connected"
+msgstr "已连接"
+
+msgid "Logged in as %1"
+msgstr "已登录：%1"
+
+msgid "Not logged in"
+msgstr "未登录"
+
+msgid "Plugin disabled"
+msgstr "插件已停用"
+
+msgid "Progress sync is set up in the reader: open a book, then Tools › Progress sync."
+msgstr "进度同步要在阅读时设置：打开一本书，然后在“工具 › 进度同步”里设置。"
