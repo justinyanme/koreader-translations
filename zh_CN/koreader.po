@@ -27890,6 +27890,52 @@ msgstr "从书架移除"
 msgid "Removed from shelf. The file is still in %1"
 msgstr "已从书架移除，文件还在 %1"
 
+#. @translators Contents drawer header: how much of the book is read, and its number of chapters.
+msgid "Read %1% · %2 chapters"
+msgstr "已读 %1% · 共 %2 章"
+
+#. @translators Contents drawer header when the book has no chapters. %1 is a percentage.
+msgctxt "Contents drawer"
+msgid "Read %1%"
+msgstr "已读 %1%"
+
+msgid "Bookmarks %1"
+msgstr "书签 %1"
+
+msgctxt "Contents drawer"
+msgid "Notes"
+msgstr "笔记"
+
+msgctxt "Contents drawer"
+msgid "Notes %1"
+msgstr "笔记 %1"
+
+msgid "No table of contents"
+msgstr "没有目录"
+
+#. @translators Bookmark in the contents drawer: chapter, page and date.
+msgid "%1 · Page %2 · %3"
+msgstr "%1 · 第 %2 页 · %3"
+
+msgid "Page %1 · %2"
+msgstr "第 %1 页 · %2"
+
+msgid "No bookmarks yet"
+msgstr "还没有书签"
+
+msgid "Show the toolbar and tap the bookmark icon at the top right."
+msgstr "阅读时呼出工具栏，点右上角的书签图标。"
+
+msgid "No notes yet"
+msgstr "还没有笔记"
+
+msgid "Long-press text, then tap Highlight or Add note."
+msgstr "长按文字选中后，点“划线”或“写想法”。"
+
+#. @translators Label before the note written on a highlight.
+msgid "Thought"
+msgstr "想法"
+
 #. @translators Heading of the weekly reading chart on the Me page.
 msgid "Reading this week"
 msgstr "本周阅读"
