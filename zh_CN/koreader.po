@@ -27889,3 +27889,80 @@ msgstr "从书架移除"
 #. @translators %1 is the folder that holds the book.
 msgid "Removed from shelf. The file is still in %1"
 msgstr "已从书架移除，文件还在 %1"
+
+#. @translators Title of the reader's typeset panel.
+msgid "Font & layout"
+msgstr "字体与排版"
+
+#. @translators %1 is the font size.
+msgctxt "Typeset panel"
+msgid "Font size %1"
+msgstr "字号 %1"
+
+msgctxt "Typeset panel"
+msgid "Line spacing"
+msgstr "行距"
+
+msgid "Margins"
+msgstr "边距"
+
+msgctxt "Line spacing"
+msgid "Compact"
+msgstr "紧凑"
+
+msgctxt "Line spacing"
+msgid "Standard"
+msgstr "标准"
+
+msgctxt "Line spacing"
+msgid "Loose"
+msgstr "宽松"
+
+msgctxt "Margins"
+msgid "Narrow"
+msgstr "窄"
+
+msgctxt "Margins"
+msgid "Standard"
+msgstr "标准"
+
+msgctxt "Margins"
+msgid "Wide"
+msgstr "宽"
+
+#. @translators Font name (Source Han Serif / Noto Serif CJK).
+msgid "Source Han Serif"
+msgstr "思源宋体"
+
+#. @translators Font name (Source Han Sans / Noto Sans CJK).
+msgid "Source Han Sans"
+msgstr "思源黑体"
+
+#. @translators %1 is a font name.
+msgid "%1 · not installed"
+msgstr "%1 · 未安装"
+
+msgid "More fonts"
+msgstr "更多字体"
+
+msgid "More layout options"
+msgstr "更多排版"
+
+msgid "More layout options: weight, hyphenation, indent, style tweaks"
+msgstr "更多排版：字重、断字、缩进、样式微调"
+
+#. @translators %1 is the folder for user fonts.
+msgid "Source Han Serif is not installed. Put its font files in %1 and restart KOReader. Source Han Sans is used for now."
+msgstr "未安装思源宋体。请把字体文件放进 %1，然后重启 KOReader。暂时使用思源黑体显示。"
+
+msgid "Hyphenation"
+msgstr "断字"
+
+msgid "Paragraph indent"
+msgstr "段首缩进"
+
+msgid "Paragraph spacing"
+msgstr "段间距"
+
+msgid "All layout options (original)"
+msgstr "全部排版选项（原版）"
