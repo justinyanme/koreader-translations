@@ -27839,3 +27839,35 @@ msgstr "点击右侧 1/3"
 #. @translators Shown in the tap zone preview when turning pages by tapping is disabled.
 msgid "Page turn taps off"
 msgstr "点击翻页已关闭"
+
+#. @translators Selection bubble action that highlights the selected text.
+msgctxt "Highlight bubble"
+msgid "Highlight"
+msgstr "划线"
+
+#. @translators Selection bubble action that adds a note to the selected text or highlight.
+msgctxt "Highlight bubble"
+msgid "Write note"
+msgstr "写想法"
+
+#. @translators Highlight bubble action that edits the note of a highlight.
+msgctxt "Highlight bubble"
+msgid "Edit note"
+msgstr "改想法"
+
+#. @translators Selection bubble action that looks up the selected text in the dictionary.
+msgctxt "Highlight bubble"
+msgid "Look up"
+msgstr "查询"
+
+#. @translators Title of the sheet that edits the note of a highlight.
+msgctxt "Note sheet"
+msgid "Edit note"
+msgstr "修改想法"
+
+msgid "Write down your thoughts…"
+msgstr "写下你的想法…"
+
+#. @translators Highlight style, see doc/adr/0003-wavy-highlight-style.md in the superproject.
+msgid "Wavy underline"
+msgstr "波浪线"
