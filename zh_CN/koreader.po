@@ -28927,6 +28927,56 @@ msgstr "刚刚"
 msgid "Today %1"
 msgstr "今天 %1"
 
+# eink-redesign: bottom font panel (#45)
+#. @translators Font category: readable fonts without Chinese glyph coverage.
+msgid "Western"
+msgstr "西文"
+
+#. @translators Font category containing every readable font, including decorative and regional variants.
+msgctxt "Font category"
+msgid "All"
+msgstr "全部"
+
+# eink-redesign: cache cleanup (#66)
+msgid "Clear cache"
+msgstr "清理缓存"
+
+msgid "Clear cached covers, book metadata and book source thumbnails?"
+msgstr "清理缓存的封面、书籍元数据和书源缩略图？"
+
+msgid "Books, notes, download records and settings are kept."
+msgstr "书籍、笔记、下载记录和设置均会保留。"
+
+msgid "Cache is in use. Please try again shortly."
+msgstr "缓存正在使用中，请稍后再试。"
+
+msgid "Cache cleared."
+msgstr "缓存已清理。"
+
+msgid "Some caches could not be cleared. Please try again."
+msgstr "部分缓存未能清理，请重试。"
+
+msgid "Clear cached covers, book metadata, book source thumbnails and typesetting data?"
+msgstr "清理缓存的封面、书籍元数据、书源缩略图和排版数据？"
+
+msgid "Clearing cache…"
+msgstr "正在清理缓存…"
+
+msgid "Thumbnail cache: %1 failed"
+msgstr "缩略图缓存：%1 项未能清理"
+
+msgid "Typesetting cache: %1 failed"
+msgstr "排版缓存：%1 项未能清理"
+
+msgid "Temporary cache: %1 failed"
+msgstr "临时缓存：%1 项未能清理"
+
+msgid "Cover database: %1 failed"
+msgstr "封面数据库：%1 项未能清理"
+
+msgid "Cache cleanup interrupted. Please try again."
+msgstr "缓存清理已中断，请重试。"
+
 # eink-redesign: finished book number (#63)
 
 #. @translators The emblem of a finished book, numbering it among the books marked finished; Chinese: 读完的第\n%1本. The first line is shown small, the number (%1) large and the words beside it small.
