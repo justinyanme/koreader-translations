@@ -28541,6 +28541,10 @@ msgstr "用 USB 线把书拷进主目录，或用 Calibre 无线发送。"
 msgid "Home folder: %1"
 msgstr "主目录：%1"
 
+#. @translators Shown in place of the hits on the full-text search page when nothing in the book matches.
+msgid "No matching content found"
+msgstr "没有找到相关内容"
+
 #. @translators Paragraph mode of the typeset panel: the first line of each paragraph starts at the margin, with no indent. Names a card of the paragraph panel and the pill that opens it.
 msgid "First line flush"
 msgstr "首行顶格"
