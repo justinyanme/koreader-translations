@@ -27971,41 +27971,12 @@ msgstr "波浪线"
 msgid "Font & layout"
 msgstr "字体与排版"
 
-#. @translators %1 is the font size.
-msgctxt "Typeset panel"
-msgid "Font size %1"
-msgstr "字号 %1"
-
 msgctxt "Typeset panel"
 msgid "Line spacing"
 msgstr "行距"
 
 msgid "Margins"
 msgstr "边距"
-
-msgctxt "Line spacing"
-msgid "Compact"
-msgstr "紧凑"
-
-msgctxt "Line spacing"
-msgid "Standard"
-msgstr "标准"
-
-msgctxt "Line spacing"
-msgid "Loose"
-msgstr "宽松"
-
-msgctxt "Margins"
-msgid "Narrow"
-msgstr "窄"
-
-msgctxt "Margins"
-msgid "Standard"
-msgstr "标准"
-
-msgctxt "Margins"
-msgid "Wide"
-msgstr "宽"
 
 #. @translators Font name (Source Han Serif / Noto Serif CJK).
 msgid "Source Han Serif"
@@ -28444,6 +28415,89 @@ msgstr "去顶部"
 #. @translators Field at the top of the full-screen contents page that opens the full-text search.
 msgid "Search the whole book"
 msgstr "搜索全书内容"
+
+#. @translators Row in the redesigned settings and title of its page: the size of the redesigned interface's text, not of the book's text. WeChat Read calls it 字体大小.
+msgid "Interface font size"
+msgstr "字体大小"
+
+msgid "Tap the slider to set the interface font size"
+msgstr "点击滑块设置界面字体大小"
+
+msgid "The size of a book's text is set in the reader, and this setting does not change it."
+msgstr "书籍正文的字体大小需要在阅读器内调节，不受本设置影响"
+
+#. @translators The smallest of the five interface font sizes, also the label at the small end of its slider.
+msgctxt "Interface font size"
+msgid "Small"
+msgstr "小"
+
+#. @translators The third of the five interface font sizes, also the label at the large end of its slider.
+msgctxt "Interface font size"
+msgid "Large"
+msgstr "大"
+
+msgctxt "Interface font size"
+msgid "Larger"
+msgstr "较大"
+
+msgctxt "Interface font size"
+msgid "Largest"
+msgstr "特大"
+
+#. @translators Selection popover action, in the place of "Highlight", that deletes the highlight.
+msgctxt "Highlight bubble"
+msgid "Delete highlight"
+msgstr "删除划线"
+
+#. @translators Toast after the selected text or a highlight was copied to the clipboard.
+msgctxt "Highlight bubble"
+msgid "Copied"
+msgstr "复制成功"
+
+#. @translators Settings row choosing the style of new highlights (line, marker, wave).
+msgctxt "Settings"
+msgid "Highlight style"
+msgstr "划线样式"
+
+#. @translators Highlight style: a straight line under the text, the default.
+msgctxt "Highlight style"
+msgid "Underline"
+msgstr "直线"
+
+#. @translators Highlight style: a gray fill behind the text.
+msgctxt "Highlight style"
+msgid "Marker"
+msgstr "马克笔"
+
+#. @translators End label inside the font size and margin tracks of the typeset panel, at the low end.
+msgctxt "Typeset track"
+msgid "Small"
+msgstr "小"
+
+#. @translators End label inside the font size and margin tracks of the typeset panel, at the high end.
+msgctxt "Typeset track"
+msgid "Large"
+msgstr "大"
+
+#. @translators End label inside the font weight track of the typeset panel, at the low end. One short word.
+msgctxt "Typeset track"
+msgid "Light"
+msgstr "细"
+
+#. @translators End label inside the font weight track of the typeset panel, at the high end. One short word.
+msgctxt "Typeset track"
+msgid "Bold"
+msgstr "粗"
+
+#. @translators End label inside the line spacing track of the typeset panel, at the low end. One short word.
+msgctxt "Typeset track"
+msgid "Tight"
+msgstr "紧"
+
+#. @translators End label inside the line spacing track of the typeset panel, at the high end. One short word.
+msgctxt "Typeset track"
+msgid "Loose"
+msgstr "松"
 
 #. @translators Hint centered on the reading page footer each time a book opens, until the toolbar first shows or about a minute passes.
 msgid "Swipe up to show the toolbar"
