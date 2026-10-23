@@ -28499,6 +28499,10 @@ msgctxt "Typeset track"
 msgid "Loose"
 msgstr "松"
 
+#. @translators Hint centered on the reading page footer each time a book opens, until the toolbar first shows or about a minute passes.
+msgid "Swipe up to show the toolbar"
+msgstr "上滑显示工具栏"
+
 #. @translators Lookup card title when no StarDict dictionary is installed.
 msgid "No dictionaries installed"
 msgstr "未安装词典"
