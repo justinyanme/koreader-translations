@@ -28428,3 +28428,33 @@ msgstr "无法保存这本书"
 #. @translators %1 is a folder.
 msgid "Cannot write to the download folder %1. Choose another one in the source's menu."
 msgstr "无法写入下载文件夹 %1。在书源的“⋯”菜单里换一个文件夹。"
+
+#. @translators Selection popover action, in the place of "Highlight", that deletes the highlight.
+msgctxt "Highlight bubble"
+msgid "Delete highlight"
+msgstr "删除划线"
+
+#. @translators Toast after the selected text or a highlight was copied to the clipboard.
+msgctxt "Highlight bubble"
+msgid "Copied"
+msgstr "复制成功"
+
+#. @translators Question over the styles to choose for one highlight, from a long-press on "Delete highlight".
+msgctxt "Highlight bubble"
+msgid "Style of this highlight"
+msgstr "这条划线的样式"
+
+#. @translators Settings row choosing the style of new highlights (line, marker, wave).
+msgctxt "Settings"
+msgid "Highlight style"
+msgstr "划线样式"
+
+#. @translators Highlight style: a straight line under the text, the default.
+msgctxt "Highlight style"
+msgid "Underline"
+msgstr "直线"
+
+#. @translators Highlight style: a gray fill behind the text.
+msgctxt "Highlight style"
+msgid "Marker"
+msgstr "马克笔"
