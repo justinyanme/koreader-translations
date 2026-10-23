@@ -28439,11 +28439,6 @@ msgctxt "Highlight bubble"
 msgid "Copied"
 msgstr "复制成功"
 
-#. @translators Question over the styles to choose for one highlight, from a long-press on "Delete highlight".
-msgctxt "Highlight bubble"
-msgid "Style of this highlight"
-msgstr "这条划线的样式"
-
 #. @translators Settings row choosing the style of new highlights (line, marker, wave).
 msgctxt "Settings"
 msgid "Highlight style"
