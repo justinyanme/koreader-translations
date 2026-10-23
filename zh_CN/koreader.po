@@ -28544,3 +28544,30 @@ msgstr "主目录：%1"
 #. @translators Shown in place of the hits on the full-text search page when nothing in the book matches.
 msgid "No matching content found"
 msgstr "没有找到相关内容"
+
+#. @translators Title of the notes page, which lists the book's highlights, thoughts and bookmarks.
+msgctxt "Notes page"
+msgid "Notes"
+msgstr "笔记"
+
+#. @translators On the notes page: how far the book is read (%1 a percentage), and %2 its notes, bookmarks included.
+msgid "Read to %1% · 1 note"
+msgid_plural "Read to %1% · %2 notes"
+msgstr[0] "已读到 %1% · 共 %2 条笔记"
+
+#. @translators The time spent reading this book, on its notes page (时长 25 分钟).
+msgid "Read for 1 minute"
+msgid_plural "Read for %1 minutes"
+msgstr[0] "时长 %1 分钟"
+
+#. @translators The time spent reading this book, on its notes page: %1 hours, %2 minutes (时长 2 小时 5 分钟).
+msgid "Read for %1 h %2 min"
+msgstr "时长 %1 小时 %2 分钟"
+
+#. @translators Toggle on the notes page: list only the bookmarks, or all notes again.
+msgid "Bookmarks only"
+msgstr "仅显示书签"
+
+#. @translators On the notes page of a book without notes (thoughts, highlights and bookmarks).
+msgid "You can keep your thoughts, highlights and bookmarks on this book here."
+msgstr "你可以在这里记录本书的\n想法、划线和书签"
