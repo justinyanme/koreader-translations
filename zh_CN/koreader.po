@@ -27884,11 +27884,11 @@ msgid "Put on hold"
 msgstr "搁置"
 
 msgid "Remove from shelf"
-msgstr "从书架移除"
+msgstr "移出书架"
 
 #. @translators %1 is the folder that holds the book.
 msgid "Removed from shelf. The file is still in %1"
-msgstr "已从书架移除，文件还在 %1"
+msgstr "已移出书架，文件还在 %1"
 
 #. @translators Contents drawer header: how much of the book is read, and its number of chapters.
 msgid "Read %1% · %2 chapters"
@@ -28544,3 +28544,46 @@ msgstr "主目录：%1"
 #. @translators Shown in place of the hits on the full-text search page when nothing in the book matches.
 msgid "No matching content found"
 msgstr "没有找到相关内容"
+
+#. @translators Title of the shelf in selection mode while no book is selected.
+msgid "Select books"
+msgstr "选择书籍"
+
+#. @translators Title of the shelf in selection mode.
+msgctxt "Shelf"
+msgid "1 book selected"
+msgid_plural "%1 books selected"
+msgstr[0] "已选择 %1 本书籍"
+
+#. @translators Asked before hiding one book from the shelf (selection mode). %1 is the book's title.
+msgid "Remove “%1” from the shelf? The file stays on the device."
+msgstr "是否将《%1》移出书架？文件仍会留在设备上。"
+
+#. @translators Asked before hiding the selected books from the shelf (selection mode).
+msgid "Remove 1 book from the shelf? The file stays on the device."
+msgid_plural "Remove %1 books from the shelf? The files stay on the device."
+msgstr[0] "是否将 %1 本书籍移出书架？文件仍会留在设备上。"
+
+#. @translators Confirms hiding books from the shelf; their files are not deleted.
+msgctxt "Shelf"
+msgid "Remove"
+msgstr "移出"
+
+#. @translators Shown after hiding the selected books from the shelf.
+msgid "Removed 1 book from the shelf. The file stays on the device."
+msgid_plural "Removed %1 books from the shelf. The files stay on the device."
+msgstr[0] "已将 %1 本书籍移出书架，文件仍在设备上"
+
+#. @translators Asks which status to give one book (selection mode): Finished, Reading or On hold. %1 is its title.
+msgid "Mark “%1” as"
+msgstr "将《%1》标记为"
+
+#. @translators Asks which status to give the selected books: Finished, Reading or On hold.
+msgid "Mark 1 book as"
+msgid_plural "Mark %1 books as"
+msgstr[0] "将 %1 本书籍标记为"
+
+#. @translators Shown after setting the status of the selected books. %2 is the status, such as Finished.
+msgid "Marked 1 book as %2"
+msgid_plural "Marked %1 books as %2"
+msgstr[0] "已将 %1 本书籍标记为%2"
