@@ -28445,6 +28445,34 @@ msgstr "去顶部"
 msgid "Search the whole book"
 msgstr "搜索全书内容"
 
+#. @translators Row in the redesigned settings and title of its page: the size of the redesigned interface's text, not of the book's text. WeChat Read calls it 字体大小.
+msgid "Interface font size"
+msgstr "字体大小"
+
+msgid "Tap the slider to set the interface font size"
+msgstr "点击滑块设置界面字体大小"
+
+msgid "The size of a book's text is set in the reader, and this setting does not change it."
+msgstr "书籍正文的字体大小需要在阅读器内调节，不受本设置影响"
+
+#. @translators The smallest of the five interface font sizes, also the label at the small end of its slider.
+msgctxt "Interface font size"
+msgid "Small"
+msgstr "小"
+
+#. @translators The third of the five interface font sizes, also the label at the large end of its slider.
+msgctxt "Interface font size"
+msgid "Large"
+msgstr "大"
+
+msgctxt "Interface font size"
+msgid "Larger"
+msgstr "较大"
+
+msgctxt "Interface font size"
+msgid "Largest"
+msgstr "特大"
+
 #. @translators Selection popover action, in the place of "Highlight", that deletes the highlight.
 msgctxt "Highlight bubble"
 msgid "Delete highlight"
