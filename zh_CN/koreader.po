@@ -28987,3 +28987,48 @@ msgid ""
 msgstr ""
 "读完的第\n"
 "%1本"
+
+# eink-redesign: Me page (#64)
+
+#. @translators On the Me page: all the reading time recorded, %1 hours and %2 minutes; the numbers are shown large. Chinese: 累计阅读 %1 小时 %2 分钟
+msgid "Total reading %1 h %2 min"
+msgstr "累计阅读 %1 小时 %2 分钟"
+
+#. @translators On the Me page, under the total reading time: this week's, %1 hours and %2 minutes, and %3 days in a row with reading. Chinese: 本周阅读 %1 小时 %2 分钟 | 连续 %3 天
+msgid "This week %1 h %2 min | %3-day streak"
+msgstr "本周阅读 %1 小时 %2 分钟 | 连续 %3 天"
+
+#. @translators On the Me page in place of the reading time, while the reading statistics plugin is disabled.
+msgid "Reading statistics are off"
+msgstr "阅读统计未开启"
+
+#. @translators Title of the dialog editing the name shown on the Me page.
+msgid "Nickname"
+msgstr "昵称"
+
+#. @translators On the Me page and as its page title: the notes of all books together (not the notes of a whole book). Chinese: 全部书笔记
+msgctxt "Me page"
+msgid "Notes in all books"
+msgstr "全部书笔记"
+
+#. @translators On the Me page, under 全部书笔记: the notes of all books, highlights, thoughts and bookmarks together.
+msgid "1 note"
+msgid_plural "%1 notes"
+msgstr[0] "%1 条笔记"
+
+#. @translators On the Me page: checks for a new version of KOReader. Chinese: 版本更新
+msgctxt "Me page"
+msgid "Version update"
+msgstr "版本更新"
+
+#. @translators On the Me page, under 版本更新: the version running.
+msgid "Current version %1"
+msgstr "当前版本 %1"
+
+#. @translators A bookmark among the notes of all books, when it has neither a note nor a chapter.
+msgid "Bookmark"
+msgstr "书签"
+
+#. @translators On the notes of all books, while there are none.
+msgid "Long-press text in a book to highlight it or write a thought, or bookmark a page from the toolbar."
+msgstr "在书里长按文字可以划线或写想法，也可以在工具栏给页面加书签。"
