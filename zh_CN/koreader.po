@@ -28773,3 +28773,12 @@ msgstr "方正隶书"
 #. @translators Font family name shown in the reading font grid.
 msgid "Fangzheng Wei Bei"
 msgstr "方正魏碑"
+
+# eink-redesign: full-screen font page (#45)
+#. @translators Fonts without Chinese glyph coverage on the full-screen font page.
+msgid "Western"
+msgstr "西文"
+
+msgctxt "Font category"
+msgid "All"
+msgstr "全部"
