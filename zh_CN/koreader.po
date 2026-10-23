@@ -27884,11 +27884,11 @@ msgid "Put on hold"
 msgstr "搁置"
 
 msgid "Remove from shelf"
-msgstr "从书架移除"
+msgstr "移出书架"
 
 #. @translators %1 is the folder that holds the book.
 msgid "Removed from shelf. The file is still in %1"
-msgstr "已从书架移除，文件还在 %1"
+msgstr "已移出书架，文件还在 %1"
 
 #. @translators Contents drawer header: how much of the book is read, and its number of chapters.
 msgid "Read %1% · %2 chapters"
@@ -28603,6 +28603,85 @@ msgstr "要将“%1”移出生词本吗？"
 #. @translators Last line of a lookup card whose entry was cut: a tap on the card opens the whole entry.
 msgid "Tap the card for the rest of the entry."
 msgstr "其余释义请点按卡片查看。"
+
+#. @translators Title of the shelf in selection mode while no book is selected.
+msgid "Select books"
+msgstr "选择书籍"
+
+#. @translators Title of the shelf in selection mode.
+msgctxt "Shelf"
+msgid "1 book selected"
+msgid_plural "%1 books selected"
+msgstr[0] "已选择 %1 本书籍"
+
+#. @translators Asked before hiding one book from the shelf (selection mode). %1 is the book's title.
+msgid "Remove “%1” from the shelf? The file stays on the device."
+msgstr "是否将《%1》移出书架？文件仍会留在设备上。"
+
+#. @translators Asked before hiding the selected books from the shelf (selection mode).
+msgid "Remove 1 book from the shelf? The file stays on the device."
+msgid_plural "Remove %1 books from the shelf? The files stay on the device."
+msgstr[0] "是否将 %1 本书籍移出书架？文件仍会留在设备上。"
+
+#. @translators Confirms hiding books from the shelf; their files are not deleted.
+msgctxt "Shelf"
+msgid "Remove"
+msgstr "移出"
+
+#. @translators Shown after hiding the selected books from the shelf.
+msgid "Removed 1 book from the shelf. The file stays on the device."
+msgid_plural "Removed %1 books from the shelf. The files stay on the device."
+msgstr[0] "已将 %1 本书籍移出书架，文件仍在设备上"
+
+#. @translators Asks which status to give one book (selection mode): Finished, Reading or On hold. %1 is its title.
+msgid "Mark “%1” as"
+msgstr "将《%1》标记为"
+
+#. @translators Asks which status to give the selected books: Finished, Reading or On hold.
+msgid "Mark 1 book as"
+msgid_plural "Mark %1 books as"
+msgstr[0] "将 %1 本书籍标记为"
+
+#. @translators Shown after setting the status of the selected books. %2 is the status, such as Finished.
+msgid "Marked 1 book as %2"
+msgid_plural "Marked %1 books as %2"
+msgstr[0] "已将 %1 本书籍标记为%2"
+
+#. @translators Shown when some of the selected books' status could not be saved (a read-only folder). %3 is the status, such as Finished.
+msgid "Marked %1 of %2 books as %3. The rest could not be saved."
+msgstr "已将 %1/%2 本书籍标记为%3，其余未能保存"
+
+#. @translators Shown when no selected book's status could be saved (a read-only folder).
+msgid "Could not save the status of 1 book."
+msgid_plural "Could not save the status of %1 books."
+msgstr[0] "%1 本书籍的状态未能保存"
+
+#. @translators Title of the notes page, which lists the book's highlights, thoughts and bookmarks.
+msgctxt "Notes page"
+msgid "Notes"
+msgstr "笔记"
+
+#. @translators On the notes page: how far the book is read (%1 a percentage), and %2 its notes, bookmarks included.
+msgid "Read to %1% · 1 note"
+msgid_plural "Read to %1% · %2 notes"
+msgstr[0] "已读到 %1% · 共 %2 条笔记"
+
+#. @translators The time spent reading this book, on its notes page (时长 25 分钟).
+msgid "Read for 1 minute"
+msgid_plural "Read for %1 minutes"
+msgstr[0] "时长 %1 分钟"
+
+#. @translators The time spent reading this book, on its notes page: %1 hours, %2 minutes (时长 2 小时 5 分钟).
+msgid "Read for %1 h %2 min"
+msgstr "时长 %1 小时 %2 分钟"
+
+#. @translators Toggle on the notes page: list only the bookmarks, or all notes again.
+msgid "Bookmarks only"
+msgstr "仅显示书签"
+
+#. @translators On the notes page of a book without notes (thoughts, highlights and bookmarks).
+msgid "You can keep your thoughts, highlights and bookmarks on this book here."
+msgstr "你可以在这里记录本书的\n想法、划线和书签"
 
 #. @translators Row of the reader toolbar's "More" list: opens the brightness and warmth panel.
 msgid "Brightness and warmth"
