@@ -28726,3 +28726,30 @@ msgstr "已移出书架"
 
 msgid "To add this book to the shelf, place its file in the home folder:\n%1"
 msgstr "要将本书加入书架，请先将文件放入主目录：\n%1"
+
+#. @translators Settings toggle (reading preferences): taps on the left side of the page turn to the next page too.
+msgid "Tap left side for next page"
+msgstr "点击左侧翻到下一页"
+
+msgid "When on, taps on the left side also turn to the next page"
+msgstr "开启后，点击左侧也会翻到下一页"
+
+#. @translators Settings toggle (reading preferences): first-line indent as the default of all books.
+msgid "Indent first lines of body text"
+msgstr "正文首行缩进"
+
+msgid "When on, the body text of books is indented on first lines"
+msgstr "开启后，书籍正文将会首行缩进"
+
+msgid "A book whose first lines you set in its paragraph panel keeps that setting."
+msgstr "在段落面板里单独设置过首行的书，保留自己的设置。"
+
+msgid "This book keeps its own first-line setting."
+msgstr "本书保留自己的首行设置。"
+
+#. @translators Settings toggle (reading preferences): the time in the reader's footer.
+msgid "Show time while reading"
+msgstr "阅读时显示时间"
+
+msgid "When on, the current system time shows while reading"
+msgstr "开启后，阅读时会显示当前系统时间"
