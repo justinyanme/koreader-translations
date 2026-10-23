@@ -28727,6 +28727,86 @@ msgstr "已移出书架"
 msgid "To add this book to the shelf, place its file in the home folder:\n%1"
 msgstr "要将本书加入书架，请先将文件放入主目录：\n%1"
 
+# eink-redesign: font grid (#44)
+msgid "System font"
+msgstr "系统字体"
+
+msgid "View more"
+msgstr "查看更多"
+
+#. @translators %1 is the selected font name.
+msgid "Current selection · %1"
+msgstr "当前选择 · %1"
+
+#. @translators Font family name shown in the reading font grid.
+msgid "Fangzheng Lanting Hei"
+msgstr "方正兰亭黑"
+
+#. @translators Font family name shown in the reading font grid.
+msgid "Fangzheng Zhun Yuan"
+msgstr "方正准圆"
+
+#. @translators Font family name shown in the reading font grid.
+msgid "Fangzheng Kai"
+msgstr "方正楷体"
+
+#. @translators Font family name shown in the reading font grid.
+msgid "Fangzheng Hei"
+msgstr "方正黑体"
+
+#. @translators Font family name shown in the reading font grid.
+msgid "Fangzheng Shu Song"
+msgstr "方正书宋"
+
+#. @translators Font family name shown in the reading font grid.
+msgid "Fangzheng Song"
+msgstr "方正宋体"
+
+#. @translators Font family name shown in the reading font grid.
+msgid "Fangzheng Fang Song"
+msgstr "方正仿宋"
+
+#. @translators Font family name shown in the reading font grid.
+msgid "Fangzheng Li Shu"
+msgstr "方正隶书"
+
+#. @translators Font family name shown in the reading font grid.
+msgid "Fangzheng Wei Bei"
+msgstr "方正魏碑"
+
+#. @translators Caption under this book's accumulated reading duration in the progress panel.
+msgid "Reading time"
+msgstr "阅读时长"
+
+#. @translators Estimate from the book's measured average page time and remaining pages.
+msgid "About 1 hour left"
+msgid_plural "About %1 hours left"
+msgstr[0] "约 %1 小时后读完"
+
+#. @translators Unit after the note count, including highlights, thoughts and bookmarks.
+msgid "item"
+msgid_plural "items"
+msgstr[0] "条"
+
+#. @translators A note here can be a bookmark, a highlight or a thought.
+msgid "Delete this note?"
+msgstr "确认删除该笔记吗？"
+
+#. @translators Placeholder in the compact thought editor above the keyboard.
+msgid "Write your thoughts on this moment…"
+msgstr "写下这一刻的想法…"
+
+msgid "Thought saved"
+msgstr "想法已保存"
+
+msgctxt "Thought editor"
+msgid "Delete note"
+msgstr "删除想法"
+
+msgctxt "Thought editor"
+msgid "Delete this note?"
+msgstr "删除这条想法？"
+
 #. @translators Settings toggle (reading preferences): taps on the left side of the page turn to the next page too.
 msgid "Tap left side for next page"
 msgstr "点击左侧翻到下一页"
