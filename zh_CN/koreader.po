@@ -28711,3 +28711,18 @@ msgstr "在书架中搜索：%1"
 
 msgid "Clear shelf search history?"
 msgstr "清空书架搜索历史？"
+
+msgid "Bookmark added"
+msgstr "已添加书签"
+
+msgid "Bookmark removed"
+msgstr "已移除书签"
+
+msgid "Added to shelf"
+msgstr "已加入书架"
+
+msgid "Removed from shelf"
+msgstr "已移出书架"
+
+msgid "To add this book to the shelf, place its file in the home folder:\n%1"
+msgstr "要将本书加入书架，请先将文件放入主目录：\n%1"
