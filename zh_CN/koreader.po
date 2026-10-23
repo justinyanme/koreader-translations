@@ -28499,6 +28499,10 @@ msgctxt "Typeset track"
 msgid "Loose"
 msgstr "松"
 
+#. @translators Hint centered on the reading page footer each time a book opens, until the toolbar first shows or about a minute passes.
+msgid "Swipe up to show the toolbar"
+msgstr "上滑显示工具栏"
+
 #. @translators Paragraph mode of the typeset panel: the first line of each paragraph starts at the margin, with no indent. Names a card of the paragraph panel and the pill that opens it.
 msgid "First line flush"
 msgstr "首行顶格"
