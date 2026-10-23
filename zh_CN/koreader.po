@@ -28563,3 +28563,11 @@ msgstr "段落首行缩进两字（2em）"
 
 msgid "Indent the first line of paragraphs by 2em, the width of two Chinese or Japanese characters. Like the indentation above, this will force it on common elements, over publisher styles."
 msgstr "段落首行缩进 2em，即两个汉字的宽度。和上面的缩进一样，会覆盖出版商在常见元素上的样式。"
+
+#. @translators Row of the reader toolbar's "More" list: opens the brightness and warmth panel.
+msgid "Brightness and warmth"
+msgstr "亮度与色温"
+
+#. @translators Row of the reader toolbar's "More" list: opens the book's details, with the reader's own rating and review.
+msgid "Book details"
+msgstr "书籍详情"
