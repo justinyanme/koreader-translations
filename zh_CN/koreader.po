@@ -27783,10 +27783,6 @@ msgstr "本章第 %1 / %2 页 · 全书 %3%"
 msgid "Page %1 / %2 · Book %3%"
 msgstr "第 %1 / %2 页 · 全书 %3%"
 
-#. @translators %1 is a chapter title, %2 a page number within that chapter.
-msgid "Return to last position: %1, page %2"
-msgstr "返回上次位置：%1 第 %2 页"
-
 msgid "Brightness %1%"
 msgstr "亮度 %1%"
 
