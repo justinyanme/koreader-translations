@@ -28444,3 +28444,7 @@ msgstr "去顶部"
 #. @translators Field at the top of the full-screen contents page that opens the full-text search.
 msgid "Search the whole book"
 msgstr "搜索全书内容"
+
+#. @translators Shown in place of the hits on the full-text search page when nothing in the book matches.
+msgid "No matching content found"
+msgstr "没有找到相关内容"
