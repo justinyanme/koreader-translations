@@ -28926,3 +28926,13 @@ msgstr "刚刚"
 
 msgid "Today %1"
 msgstr "今天 %1"
+
+# eink-redesign: bottom font panel (#45)
+#. @translators Font category: readable fonts without Chinese glyph coverage.
+msgid "Western"
+msgstr "西文"
+
+#. @translators Font category containing every readable font, including decorative and regional variants.
+msgctxt "Font category"
+msgid "All"
+msgstr "全部"
