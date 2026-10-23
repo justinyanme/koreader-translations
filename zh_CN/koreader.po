@@ -27994,7 +27994,7 @@ msgid "More fonts"
 msgstr "更多字体"
 
 msgid "More layout options"
-msgstr "更多排版"
+msgstr "更多排版设置"
 
 msgid "More layout options: weight, hyphenation, indent, style tweaks"
 msgstr "更多排版：字重、断字、缩进、样式微调"
@@ -28498,3 +28498,15 @@ msgstr "紧"
 msgctxt "Typeset track"
 msgid "Loose"
 msgstr "松"
+
+#. @translators Paragraph mode of the typeset panel: the first line of each paragraph starts at the margin, with no indent. Names a card of the paragraph panel and the pill that opens it.
+msgid "First line flush"
+msgstr "首行顶格"
+
+#. @translators Paragraph mode of the typeset panel: the first line of each paragraph is indented. Names a card of the paragraph panel and the pill that opens it.
+msgid "First line indented"
+msgstr "首行缩进"
+
+#. @translators Shown when a paragraph setting is tapped while style tweaks are turned off for this book in its Style tweaks menu.
+msgid "Style tweaks are disabled for this book."
+msgstr "本书已关闭样式微调。"
