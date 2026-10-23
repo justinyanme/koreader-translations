@@ -28655,3 +28655,20 @@ msgstr "已将 %1/%2 本书籍标记为%3，其余未能保存"
 msgid "Could not save the status of 1 book."
 msgid_plural "Could not save the status of %1 books."
 msgstr[0] "%1 本书籍的状态未能保存"
+
+#. Home search (A09), local shelf only.
+msgid "Search history"
+msgstr "搜索历史"
+
+msgctxt "Search history"
+msgid "Clear"
+msgstr "清空"
+
+msgid "No search history"
+msgstr "暂无搜索历史"
+
+msgid "Search in shelf: %1"
+msgstr "在书架中搜索：%1"
+
+msgid "Clear shelf search history?"
+msgstr "清空书架搜索历史？"
