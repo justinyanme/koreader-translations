@@ -28810,3 +28810,13 @@ msgstr "删除这条想法？"
 #. @translators Static label on the local thought detail. No sharing or privacy switch.
 msgid "Only visible to you"
 msgstr "仅自己可见"
+
+#. @translators Creation time on a local thought's detail, e.g. 写于 刚刚.
+msgid "Written %1"
+msgstr "写于 %1"
+
+msgid "Just now"
+msgstr "刚刚"
+
+msgid "Today %1"
+msgstr "今天 %1"
