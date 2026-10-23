@@ -29041,7 +29041,7 @@ msgid "1 note"
 msgid_plural "%1 notes"
 msgstr[0] "%1 条笔记"
 
-#. @translators On the Me page: checks for a new version of KOReader. Chinese: 版本更新
+#. @translators On the Me page: shows the version running and how to update it. Chinese: 版本更新
 msgctxt "Me page"
 msgid "Version update"
 msgstr "版本更新"
@@ -29057,3 +29057,7 @@ msgstr "书签"
 #. @translators On the notes of all books, while there are none.
 msgid "Long-press text in a book to highlight it or write a thought, or bookmark a page from the toolbar."
 msgstr "在书里长按文字可以划线或写想法，也可以在工具栏给页面加书签。"
+
+#. @translators On the Me page, after KOReader's About: this fork is built by its owner and is not updated over the air. Chinese: 本机为自编译的定制版本，更新请安装新的 APK。
+msgid "This is a custom build made for this device. To update it, install a new APK."
+msgstr "本机为自编译的定制版本，更新请安装新的 APK。"
