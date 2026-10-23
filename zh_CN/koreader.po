@@ -28552,3 +28552,10 @@ msgstr "首行缩进"
 #. @translators Shown when a paragraph setting is tapped while style tweaks are turned off for this book in its Style tweaks menu.
 msgid "Style tweaks are disabled for this book."
 msgstr "本书已关闭样式微调。"
+
+#. @translators Style tweak in the "Paragraph first-line indentation" group; the typeset panel's 首行缩进 card sets it.
+msgid "Indentation of 2em on first paragraph line"
+msgstr "段落首行缩进两字（2em）"
+
+msgid "Indent the first line of paragraphs by 2em, the width of two Chinese or Japanese characters. Like the indentation above, this will force it on common elements, over publisher styles."
+msgstr "段落首行缩进 2em，即两个汉字的宽度。和上面的缩进一样，会覆盖出版商在常见元素上的样式。"
