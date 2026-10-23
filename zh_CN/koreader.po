@@ -28912,3 +28912,28 @@ msgstr "返回原进度"
 #. @translators Shown over the page while a jump waits for the book's layout.
 msgid "Loading…"
 msgstr "加载中…"
+
+# eink-redesign: autoturn quick controls (#52)
+
+msgid "Start autoturn"
+msgstr "开启自动翻页"
+
+msgid "Autoturn settings"
+msgstr "自动翻页设置"
+
+msgid "Automatic reading"
+msgstr "自动阅读"
+
+msgid "Reading guide"
+msgstr "划线导读"
+
+msgid "Stop autoturn"
+msgstr "关闭自动翻页"
+
+msgctxt "Autoturn speed"
+msgid "Slow"
+msgstr "慢"
+
+msgctxt "Autoturn speed"
+msgid "Fast"
+msgstr "快"
