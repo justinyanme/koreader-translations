@@ -28682,3 +28682,17 @@ msgstr "仅显示书签"
 #. @translators On the notes page of a book without notes (thoughts, highlights and bookmarks).
 msgid "You can keep your thoughts, highlights and bookmarks on this book here."
 msgstr "你可以在这里记录本书的\n想法、划线和书签"
+
+#. @translators Caption under this book's accumulated reading duration in the progress panel.
+msgid "Reading time"
+msgstr "阅读时长"
+
+#. @translators Estimate from the book's measured average page time and remaining pages.
+msgid "About 1 hour left"
+msgid_plural "About %1 hours left"
+msgstr[0] "约 %1 小时后读完"
+
+#. @translators Unit after the note count, including highlights, thoughts and bookmarks.
+msgid " item"
+msgid_plural " items"
+msgstr[0] "条"
