@@ -28806,3 +28806,7 @@ msgstr "删除想法"
 msgctxt "Thought editor"
 msgid "Delete this note?"
 msgstr "删除这条想法？"
+
+#. @translators Static label on the local thought detail. No sharing or privacy switch.
+msgid "Only visible to you"
+msgstr "仅自己可见"
