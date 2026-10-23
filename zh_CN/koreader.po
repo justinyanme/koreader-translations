@@ -27843,7 +27843,7 @@ msgstr "点击翻页已关闭"
 msgid "Shelf"
 msgstr "书架"
 
-#. @translators Bottom tab that browses folders.
+#. @translators The page that browses folders, opened from 导入 and from the Me tab, and its title.
 msgid "Files"
 msgstr "文件"
 
@@ -28502,6 +28502,44 @@ msgstr "松"
 #. @translators Hint centered on the reading page footer each time a book opens, until the toolbar first shows or about a minute passes.
 msgid "Swipe up to show the toolbar"
 msgstr "上滑显示工具栏"
+
+#. @translators Action at the right of the shelf's title row that opens the import page: how to put books on the device.
+msgctxt "Shelf"
+msgid "Import"
+msgstr "导入"
+
+#. @translators Heading of a section of the import page; the section opens the Files page.
+msgid "Browse device files"
+msgstr "浏览设备文件"
+
+msgid "Find books in any folder on the device, then open them or copy them into the home folder."
+msgstr "按文件夹查找设备里的书，直接打开或复制到主目录。"
+
+#. @translators Heading of a section of the import page; the section opens 书源, the OPDS sources page.
+msgid "Download from book sources"
+msgstr "从书源下载"
+
+msgid "Download books from the OPDS sources you added. By default they go into the home folder."
+msgstr "从你添加的 OPDS 书源下载书，默认存进主目录。"
+
+#. @translators Tile on the import page that opens 书源, the OPDS sources page.
+msgctxt "Import page"
+msgid "Book sources"
+msgstr "书源"
+
+#. @translators Heading of a section of the import page: copying books over USB, or sending them from calibre.
+msgid "Transfer from a computer"
+msgstr "从电脑传书"
+
+msgid "Copy books into the home folder over USB."
+msgstr "用 USB 线把书拷进主目录。"
+
+msgid "Copy books into the home folder over USB, or send them from calibre wirelessly."
+msgstr "用 USB 线把书拷进主目录，或用 Calibre 无线发送。"
+
+#. @translators %1 is the path of the home folder, where the shelf finds its books.
+msgid "Home folder: %1"
+msgstr "主目录：%1"
 
 #. @translators Paragraph mode of the typeset panel: the first line of each paragraph starts at the margin, with no indent. Names a card of the paragraph panel and the pill that opens it.
 msgid "First line flush"
