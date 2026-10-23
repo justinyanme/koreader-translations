@@ -28499,6 +28499,10 @@ msgctxt "Typeset track"
 msgid "Loose"
 msgstr "松"
 
+#. @translators Hint centered on the reading page footer each time a book opens, until the toolbar first shows or about a minute passes.
+msgid "Swipe up to show the toolbar"
+msgstr "上滑显示工具栏"
+
 #. @translators Shown in place of the hits on the full-text search page when nothing in the book matches.
 msgid "No matching content found"
 msgstr "没有找到相关内容"
