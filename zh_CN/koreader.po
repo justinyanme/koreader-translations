@@ -28603,3 +28603,7 @@ msgstr "要将“%1”移出生词本吗？"
 #. @translators Last line of a lookup card whose entry was cut: a tap on the card opens the whole entry.
 msgid "Tap the card for the rest of the entry."
 msgstr "其余释义请点按卡片查看。"
+
+#. @translators Heading of the lookup card showing a Wikipedia summary.
+msgid "Encyclopedia definition"
+msgstr "百科释义"
