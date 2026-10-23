@@ -28428,3 +28428,15 @@ msgstr "无法保存这本书"
 #. @translators %1 is a folder.
 msgid "Cannot write to the download folder %1. Choose another one in the source's menu."
 msgstr "无法写入下载文件夹 %1。在书源的“⋯”菜单里换一个文件夹。"
+
+#. @translators Action at the top right of the full-screen contents page: shows its last page.
+msgid "Go to bottom"
+msgstr "去底部"
+
+#. @translators Action at the top right of the full-screen contents page, on its last page: shows its first page.
+msgid "Go to top"
+msgstr "去顶部"
+
+#. @translators Field at the top of the full-screen contents page that opens the full-text search.
+msgid "Search the whole book"
+msgstr "搜索全书内容"
