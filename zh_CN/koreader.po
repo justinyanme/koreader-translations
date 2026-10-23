@@ -28773,3 +28773,17 @@ msgstr "方正隶书"
 #. @translators Font family name shown in the reading font grid.
 msgid "Fangzheng Wei Bei"
 msgstr "方正魏碑"
+
+#. @translators Caption under this book's accumulated reading duration in the progress panel.
+msgid "Reading time"
+msgstr "阅读时长"
+
+#. @translators Estimate from the book's measured average page time and remaining pages.
+msgid "About 1 hour left"
+msgid_plural "About %1 hours left"
+msgstr[0] "约 %1 小时后读完"
+
+#. @translators Unit after the note count, including highlights, thoughts and bookmarks.
+msgid "item"
+msgid_plural "items"
+msgstr[0] "条"
