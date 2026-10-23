@@ -28683,5 +28683,11 @@ msgstr "仅显示书签"
 msgid "You can keep your thoughts, highlights and bookmarks on this book here."
 msgstr "你可以在这里记录本书的\n想法、划线和书签"
 
-msgid "Download started. Tap the cover to cancel."
-msgstr "已开始下载，点封面可取消"
+msgid "Download started: %1. Tap the cover to cancel."
+msgstr "已开始下载《%1》，点封面可取消"
+
+msgid "Downloaded: %1"
+msgstr "已下载《%1》"
+
+msgid "Download canceled: %1"
+msgstr "已取消下载《%1》"
