@@ -28806,3 +28806,12 @@ msgstr "删除想法"
 msgctxt "Thought editor"
 msgid "Delete this note?"
 msgstr "删除这条想法？"
+
+msgid "Download started: %1. Tap the cover to cancel."
+msgstr "已开始下载《%1》，点封面可取消"
+
+msgid "Downloaded: %1"
+msgstr "已下载《%1》"
+
+msgid "Download canceled: %1"
+msgstr "已取消下载《%1》"
