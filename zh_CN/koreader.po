@@ -28694,3 +28694,20 @@ msgstr "书籍详情"
 #. @translators Heading of the lookup card showing a Wikipedia summary.
 msgid "Encyclopedia definition"
 msgstr "百科释义"
+
+#. Home search (A09), local shelf only.
+msgid "Search history"
+msgstr "搜索历史"
+
+msgctxt "Search history"
+msgid "Clear"
+msgstr "清空"
+
+msgid "No search history"
+msgstr "暂无搜索历史"
+
+msgid "Search in shelf: %1"
+msgstr "在书架中搜索：%1"
+
+msgid "Clear shelf search history?"
+msgstr "清空书架搜索历史？"
