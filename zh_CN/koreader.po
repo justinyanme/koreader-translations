@@ -28603,3 +28603,14 @@ msgstr "要将“%1”移出生词本吗？"
 #. @translators Last line of a lookup card whose entry was cut: a tap on the card opens the whole entry.
 msgid "Tap the card for the rest of the entry."
 msgstr "其余释义请点按卡片查看。"
+
+# eink-redesign: font grid (#44)
+msgid "System font"
+msgstr "系统字体"
+
+msgid "View more"
+msgstr "查看更多"
+
+#. @translators %1 is the selected font name.
+msgid "Current selection · %1"
+msgstr "当前选择 · %1"
