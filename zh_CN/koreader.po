@@ -28693,6 +28693,6 @@ msgid_plural "About %1 hours left"
 msgstr[0] "约 %1 小时后读完"
 
 #. @translators Unit after the note count, including highlights, thoughts and bookmarks.
-msgid " item"
-msgid_plural " items"
+msgid "item"
+msgid_plural "items"
 msgstr[0] "条"
