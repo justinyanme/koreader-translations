@@ -28926,3 +28926,11 @@ msgstr "刚刚"
 
 msgid "Today %1"
 msgstr "今天 %1"
+
+msgctxt "Book end"
+msgid ""
+"Finished book\n"
+"No. %1"
+msgstr ""
+"读完的第\n"
+"%1本"
