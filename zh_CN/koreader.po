@@ -28515,6 +28515,7 @@ msgstr "在线翻译"
 msgid "Translate online"
 msgstr "在线翻译"
 
+#. @translators Reason in the offline state of the lookup card with the online translation.
 msgid "Online translation needs Wi-Fi. Turn it on and try again."
 msgstr "在线翻译需要联网。打开 Wi-Fi 后再试一次。"
 
@@ -28523,6 +28524,17 @@ msgid "Check the network connection and try again."
 msgstr "请检查网络连接后重试。"
 
 #. @translators Last lookup card: searches the book for the looked-up word.
-msgctxt "Dictionary sheet"
 msgid "Search in this book"
 msgstr "在本书中搜索"
+
+#. @translators Reason on the lookup card when no StarDict dictionary is installed.
+msgid "To install dictionaries, search for \"Dictionary support\" in the KOReader wiki."
+msgstr "安装词典的方法，请在 KOReader 维基中搜索“Dictionary support”。"
+
+#. @translators Question of the confirm layer before a word leaves the vocabulary builder. %1 is the word.
+msgid "Remove \"%1\" from the vocabulary builder?"
+msgstr "要将“%1”移出生词本吗？"
+
+#. @translators Last line of a lookup card whose entry was cut: a tap on the card opens the whole entry.
+msgid "Tap the card for the rest of the entry."
+msgstr "其余释义请点按卡片查看。"
