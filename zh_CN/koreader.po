@@ -28927,6 +28927,9 @@ msgstr "刚刚"
 msgid "Today %1"
 msgstr "今天 %1"
 
+# eink-redesign: finished book number (#63)
+
+#. @translators The emblem of a finished book, numbering it among the books marked finished; Chinese: 读完的第\n%1本. The first line is shown small, the number (%1) large and the words beside it small.
 msgctxt "Book end"
 msgid ""
 "Finished book\n"
