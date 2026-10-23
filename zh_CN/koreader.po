@@ -28498,3 +28498,31 @@ msgstr "紧"
 msgctxt "Typeset track"
 msgid "Loose"
 msgstr "松"
+
+#. @translators Lookup card title when no StarDict dictionary is installed.
+msgid "No dictionaries installed"
+msgstr "未安装词典"
+
+#. @translators Shown on a lookup card while the lookup or the online translation runs.
+msgid "Looking up…"
+msgstr "查询中…"
+
+#. @translators Title of the lookup card with the online translation of the selection.
+msgid "Online translation"
+msgstr "在线翻译"
+
+#. @translators Button on the lookup card of a word that is not in the local dictionaries.
+msgid "Translate online"
+msgstr "在线翻译"
+
+msgid "Online translation needs Wi-Fi. Turn it on and try again."
+msgstr "在线翻译需要联网。打开 Wi-Fi 后再试一次。"
+
+#. @translators Reason under "Translation failed." on the lookup card.
+msgid "Check the network connection and try again."
+msgstr "请检查网络连接后重试。"
+
+#. @translators Last lookup card: searches the book for the looked-up word.
+msgctxt "Dictionary sheet"
+msgid "Search in this book"
+msgstr "在本书中搜索"
