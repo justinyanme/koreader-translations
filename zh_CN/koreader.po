@@ -28842,3 +28842,21 @@ msgstr "阅读时显示时间"
 
 msgid "When on, the current system time shows while reading"
 msgstr "开启后，阅读时会显示当前系统时间"
+
+msgid "Clear cache"
+msgstr "清理缓存"
+
+msgid "Clear cached covers, book metadata and book source thumbnails?"
+msgstr "清理缓存的封面、书籍元数据和书源缩略图？"
+
+msgid "Books, notes, download records and settings are kept."
+msgstr "书籍、笔记、下载记录和设置均会保留。"
+
+msgid "Cache is in use. Please try again shortly."
+msgstr "缓存正在使用中，请稍后再试。"
+
+msgid "Cache cleared."
+msgstr "缓存已清理。"
+
+msgid "Some caches could not be cleared. Please try again."
+msgstr "部分缓存未能清理，请重试。"
