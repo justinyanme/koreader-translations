@@ -28757,3 +28757,37 @@ msgstr[0] "%1 天"
 msgctxt "Book end"
 msgid "Mark as finished"
 msgstr "标记读完"
+
+msgctxt "Book end"
+msgid "Total reading time"
+msgstr "累计时长"
+
+msgctxt "Book end"
+msgid "Thoughts and notes"
+msgstr "想法笔记"
+
+msgctxt "Book end date"
+msgid "%1/%2"
+msgstr "%1月%2日"
+
+msgid "Started reading on %1"
+msgstr "%1开始阅读"
+
+msgid "Last read · %1"
+msgstr "上次阅读 · %1"
+
+msgid "Yesterday"
+msgstr "昨天"
+
+msgid "A book full of highlights"
+msgstr "满满的划线"
+
+msgctxt "Book end unit"
+msgid "day"
+msgid_plural "days"
+msgstr[0] "天"
+
+msgctxt "Book end unit"
+msgid "note"
+msgid_plural "notes"
+msgstr[0] "条"
