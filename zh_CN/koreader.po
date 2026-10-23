@@ -27994,7 +27994,7 @@ msgid "More fonts"
 msgstr "更多字体"
 
 msgid "More layout options"
-msgstr "更多排版"
+msgstr "更多排版设置"
 
 msgid "More layout options: weight, hyphenation, indent, style tweaks"
 msgstr "更多排版：字重、断字、缩进、样式微调"
@@ -28544,6 +28544,65 @@ msgstr "主目录：%1"
 #. @translators Shown in place of the hits on the full-text search page when nothing in the book matches.
 msgid "No matching content found"
 msgstr "没有找到相关内容"
+
+#. @translators Paragraph mode of the typeset panel: the first line of each paragraph starts at the margin, with no indent. Names a card of the paragraph panel and the pill that opens it.
+msgid "First line flush"
+msgstr "首行顶格"
+
+#. @translators Paragraph mode of the typeset panel: the first line of each paragraph is indented. Names a card of the paragraph panel and the pill that opens it.
+msgid "First line indented"
+msgstr "首行缩进"
+
+#. @translators Shown when a paragraph setting is tapped while style tweaks are turned off for this book in its Style tweaks menu.
+msgid "Style tweaks are disabled for this book."
+msgstr "本书已关闭样式微调。"
+
+#. @translators Style tweak in the "Paragraph first-line indentation" group; the typeset panel's 首行缩进 card sets it.
+msgid "Indentation of 2em on first paragraph line"
+msgstr "段落首行缩进两字（2em）"
+
+msgid "Indent the first line of paragraphs by 2em, the width of two Chinese or Japanese characters. Like the indentation above, this will force it on common elements, over publisher styles."
+msgstr "段落首行缩进 2em，即两个汉字的宽度。和上面的缩进一样，会覆盖出版商在常见元素上的样式。"
+
+#. @translators Lookup card title when no StarDict dictionary is installed.
+msgid "No dictionaries installed"
+msgstr "未安装词典"
+
+#. @translators Shown on a lookup card while the lookup or the online translation runs.
+msgid "Looking up…"
+msgstr "查询中…"
+
+#. @translators Title of the lookup card with the online translation of the selection.
+msgid "Online translation"
+msgstr "在线翻译"
+
+#. @translators Button on the lookup card of a word that is not in the local dictionaries.
+msgid "Translate online"
+msgstr "在线翻译"
+
+#. @translators Reason in the offline state of the lookup card with the online translation.
+msgid "Online translation needs Wi-Fi. Turn it on and try again."
+msgstr "在线翻译需要联网。打开 Wi-Fi 后再试一次。"
+
+#. @translators Reason under "Translation failed." on the lookup card.
+msgid "Check the network connection and try again."
+msgstr "请检查网络连接后重试。"
+
+#. @translators Last lookup card: searches the book for the looked-up word.
+msgid "Search in this book"
+msgstr "在本书中搜索"
+
+#. @translators Reason on the lookup card when no StarDict dictionary is installed.
+msgid "To install dictionaries, search for \"Dictionary support\" in the KOReader wiki."
+msgstr "安装词典的方法，请在 KOReader 维基中搜索“Dictionary support”。"
+
+#. @translators Question of the confirm layer before a word leaves the vocabulary builder. %1 is the word.
+msgid "Remove \"%1\" from the vocabulary builder?"
+msgstr "要将“%1”移出生词本吗？"
+
+#. @translators Last line of a lookup card whose entry was cut: a tap on the card opens the whole entry.
+msgid "Tap the card for the rest of the entry."
+msgstr "其余释义请点按卡片查看。"
 
 #. @translators Title of the shelf in selection mode while no book is selected.
 msgid "Select books"
