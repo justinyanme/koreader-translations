@@ -28682,3 +28682,18 @@ msgstr "仅显示书签"
 #. @translators On the notes page of a book without notes (thoughts, highlights and bookmarks).
 msgid "You can keep your thoughts, highlights and bookmarks on this book here."
 msgstr "你可以在这里记录本书的\n想法、划线和书签"
+
+#. @translators Placeholder in the compact thought editor above the keyboard.
+msgid "Write your thoughts on this moment…"
+msgstr "写下这一刻的想法…"
+
+msgid "Thought saved"
+msgstr "想法已保存"
+
+msgctxt "Thought editor"
+msgid "Delete note"
+msgstr "删除想法"
+
+msgctxt "Thought editor"
+msgid "Delete this note?"
+msgstr "删除这条想法？"
