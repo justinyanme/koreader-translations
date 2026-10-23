@@ -28726,3 +28726,34 @@ msgstr "已移出书架"
 
 msgid "To add this book to the shelf, place its file in the home folder:\n%1"
 msgstr "要将本书加入书架，请先将文件放入主目录：\n%1"
+
+msgid "The End"
+msgstr "全书完"
+
+msgid "Reading days"
+msgstr "阅读天数"
+
+msgid "Exit reading"
+msgstr "退出阅读"
+
+msgid "Book end page"
+msgstr "书末页"
+
+msgid "Could not save the book status."
+msgstr "书籍状态未能保存"
+
+msgctxt "Book end"
+msgid "Finished"
+msgstr "已读完"
+
+msgctxt "Book end"
+msgid "End"
+msgstr "完"
+
+msgid "1 day"
+msgid_plural "%1 days"
+msgstr[0] "%1 天"
+
+msgctxt "Book end"
+msgid "Mark as finished"
+msgstr "标记读完"
