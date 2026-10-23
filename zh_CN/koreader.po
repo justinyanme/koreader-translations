@@ -28787,3 +28787,7 @@ msgstr[0] "约 %1 小时后读完"
 msgid "item"
 msgid_plural "items"
 msgstr[0] "条"
+
+#. @translators A note here can be a bookmark, a highlight or a thought.
+msgid "Delete this note?"
+msgstr "确认删除该笔记吗？"
