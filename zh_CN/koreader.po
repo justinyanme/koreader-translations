@@ -28815,3 +28815,12 @@ msgstr "已下载《%1》"
 
 msgid "Download canceled: %1"
 msgstr "已取消下载《%1》"
+
+# eink-redesign: progress drag and 原进度 (#51)
+#. @translators Pill above the progress panel after a jump: goes back to where the reader was before the first jump.
+msgid "Back to original position"
+msgstr "返回原进度"
+
+#. @translators Shown over the page while a jump waits for the book's layout.
+msgid "Loading…"
+msgstr "加载中…"
