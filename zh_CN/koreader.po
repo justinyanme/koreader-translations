@@ -28444,3 +28444,7 @@ msgstr "去顶部"
 #. @translators Field at the top of the full-screen contents page that opens the full-text search.
 msgid "Search the whole book"
 msgstr "搜索全书内容"
+
+#. @translators Hint centered on the reading page footer each time a book opens, until the toolbar first shows or about a minute passes.
+msgid "Swipe up to show the toolbar"
+msgstr "上滑显示工具栏"
