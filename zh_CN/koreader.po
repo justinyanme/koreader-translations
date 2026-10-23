@@ -28690,3 +28690,7 @@ msgstr "亮度与色温"
 #. @translators Row of the reader toolbar's "More" list: opens the book's details, with the reader's own rating and review.
 msgid "Book details"
 msgstr "书籍详情"
+
+#. @translators Heading of the lookup card showing a Wikipedia summary.
+msgid "Encyclopedia definition"
+msgstr "百科释义"
