@@ -27971,41 +27971,12 @@ msgstr "波浪线"
 msgid "Font & layout"
 msgstr "字体与排版"
 
-#. @translators %1 is the font size.
-msgctxt "Typeset panel"
-msgid "Font size %1"
-msgstr "字号 %1"
-
 msgctxt "Typeset panel"
 msgid "Line spacing"
 msgstr "行距"
 
 msgid "Margins"
 msgstr "边距"
-
-msgctxt "Line spacing"
-msgid "Compact"
-msgstr "紧凑"
-
-msgctxt "Line spacing"
-msgid "Standard"
-msgstr "标准"
-
-msgctxt "Line spacing"
-msgid "Loose"
-msgstr "宽松"
-
-msgctxt "Margins"
-msgid "Narrow"
-msgstr "窄"
-
-msgctxt "Margins"
-msgid "Standard"
-msgstr "标准"
-
-msgctxt "Margins"
-msgid "Wide"
-msgstr "宽"
 
 #. @translators Font name (Source Han Serif / Noto Serif CJK).
 msgid "Source Han Serif"
@@ -28497,3 +28468,33 @@ msgstr "直线"
 msgctxt "Highlight style"
 msgid "Marker"
 msgstr "马克笔"
+
+#. @translators End label inside the font size and margin tracks of the typeset panel, at the low end.
+msgctxt "Typeset track"
+msgid "Small"
+msgstr "小"
+
+#. @translators End label inside the font size and margin tracks of the typeset panel, at the high end.
+msgctxt "Typeset track"
+msgid "Large"
+msgstr "大"
+
+#. @translators End label inside the font weight track of the typeset panel, at the low end. One short word.
+msgctxt "Typeset track"
+msgid "Light"
+msgstr "细"
+
+#. @translators End label inside the font weight track of the typeset panel, at the high end. One short word.
+msgctxt "Typeset track"
+msgid "Bold"
+msgstr "粗"
+
+#. @translators End label inside the line spacing track of the typeset panel, at the low end. One short word.
+msgctxt "Typeset track"
+msgid "Tight"
+msgstr "紧"
+
+#. @translators End label inside the line spacing track of the typeset panel, at the high end. One short word.
+msgctxt "Typeset track"
+msgid "Loose"
+msgstr "松"
