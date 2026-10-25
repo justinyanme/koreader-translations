@@ -29109,3 +29109,10 @@ msgstr "无法打开文件选择器：%1"
 
 msgid "Could not import: %1"
 msgstr "无法导入：%1"
+
+# eink-redesign: book source downloads through the iOS bridge (#94)
+msgid "Download interrupted"
+msgstr "下载中断"
+
+msgid "The download stopped while the app was in the background. Tap the cover to try again."
+msgstr "App 在后台时下载已停止。点封面重试。"
