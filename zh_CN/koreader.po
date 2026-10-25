@@ -29061,3 +29061,7 @@ msgstr "在书里长按文字可以划线或写想法，也可以在工具栏给
 #. @translators On the Me page, after KOReader's About: this fork is built by its owner and is not updated over the air. Chinese: 本机为自编译的定制版本，更新请安装新的 APK。
 msgid "This is a custom build made for this device. To update it, install a new APK."
 msgstr "本机为自编译的定制版本，更新请安装新的 APK。"
+
+# eink-redesign: iOS build installation (#90, Q49)
+msgid "To update it, install the new build from TestFlight."
+msgstr "更新请在 TestFlight 中安装新版本。"
