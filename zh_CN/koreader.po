@@ -29065,3 +29065,47 @@ msgstr "本机为自编译的定制版本，更新请安装新的 APK。"
 # eink-redesign: iOS build installation (#90, Q49)
 msgid "To update it, install the new build from TestFlight."
 msgstr "更新请在 TestFlight 中安装新版本。"
+
+# eink-redesign: iOS sandbox storage and imports (#91, Q10, Q30, Q43)
+#. @translators On the import page, where the home folder is the app's sandbox (iOS): the system's document picker.
+msgid "Import from Files"
+msgstr "从“文件”导入"
+
+msgid "Pick books in the Files app, including iCloud Drive. They're copied into the home folder."
+msgstr "在“文件”App 里选书，iCloud 云盘里的也可以，书会复制到主目录。"
+
+msgid "Choose files"
+msgstr "选择文件"
+
+#. @translators %1 is iPhone or iPad. "On My iPhone" and Just Reader are the folder names the Files app shows; Files is the tab of the device's window in Finder.
+msgid "In the Files app, put books in On My %1 › Just Reader. From a Mac, connect the %1, select it in Finder, then drag books onto Just Reader in the Files tab."
+msgstr "在“文件”App 里把书放进“我的 %1 › Just Reader”。也可以在 Mac 上连接 %1，在访达里选中它，把书拖到“文件”标签页里的 Just Reader 上。"
+
+msgid "It isn't downloaded to this device. Download it in the Files app, then try again."
+msgstr "它还没有下载到本机。请先在“文件”App 里下载，再试一次。"
+
+msgid "This type of file can't be opened."
+msgstr "无法打开这种类型的文件。"
+
+msgid "A different book named %1 is already here, so this one was saved as %2."
+msgstr "这里已有另一本名为 %1 的书，这本存为 %2。"
+
+msgid "%1 is already here."
+msgstr "%1 已经导入过了。"
+
+msgid "Could not import %1: %2"
+msgstr "无法导入 %1：%2"
+
+msgid "Imported 1 book"
+msgid_plural "Imported %1 books"
+msgstr[0] "已导入 %1 本书"
+
+msgid "Imported 1 book."
+msgid_plural "Imported %1 books."
+msgstr[0] "已导入 %1 本书。"
+
+msgid "Could not show the file picker: %1"
+msgstr "无法打开文件选择器：%1"
+
+msgid "Could not import: %1"
+msgstr "无法导入：%1"
